@@ -12,6 +12,18 @@
 
 <br><br>
 
+<!-- Professional Links (LinkedIn & Upwork) -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-salah-al-dien-556441262">
+    <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~013a00ec4a263859b6">
+    <img src="https://img.shields.io/badge/Upwork-8B0000?style=for-the-badge&logo=upwork&logoColor=FFD700" alt="Upwork" />
+  </a>
+</p>
+
+<br>
+
 ### ⚙️ CORE SOFTWARE MODULES
 
 <p align="center">
@@ -46,6 +58,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M7md-salah&show_icons=true&bg_color=0D1117&title_color=E50000&text_color=FFD700&icon_color=FFD700&border_color=8B0000&hide_border=false" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7md-salah&layout=compact&bg_color=0D1117&title_color=E50000&text_color=FFD700&border_color=8B0000&hide_border=false" alt="Top Languages" />
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M7md-salah&background=0D1117&border=8B0000&stroke=8B0000&ring=E50000&fire=E50000&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFD700&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=M7md-salah&label=SYSTEM_VISITS&color=8B0000&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <!-- System Loading Bar Effect -->
