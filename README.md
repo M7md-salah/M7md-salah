@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/C++-8B0000?style=for-the-badge&logo=c%2B%2B&logoColor=FFD700" />
   <img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=FFD700" />
   <img src="https://img.shields.io/badge/ROS_2-8B0000?style=for-the-badge&logo=ros&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Linux_Ubuntu-8B0000?style=for-the-badge&logo=ubuntu&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Linux_Pop!_OS-8B0000?style=for-the-badge&logo=ubuntu&logoColor=FFD700" />
 </p>
 
 ### 🦾 HARDWARE & DIGITAL FABRICATION
